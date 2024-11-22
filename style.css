@@ -1,0 +1,18 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+  }
+  
+  #idzinho,
+  #banana_um,
+  #startModel {
+    font-size: 18px;
+  }
+  
+  body {
+    background-image: url('berço.jpeg');
+    background-size: cover;
+    background-position: center;
+  }
+  
